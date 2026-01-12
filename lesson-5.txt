@@ -1,0 +1,10 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ:
+   - <html>: Thẻ gốc chứa toàn bộ nội dung trang web.
+   - <head>: Chứa các thông tin meta, tiêu đề (title), liên kết CSS.
+   - <body>: Chứa toàn bộ nội dung hiển thị trên trình duyệt (văn bản, hình ảnh, video...).
+
+2. Mô tả cấu trúc HTML của một bảng (table):
+   - <table>: Thẻ bao ngoài cùng để định nghĩa một bảng.
+   - <tr> (Table Row): Định nghĩa một hàng trong bảng.
+   - <th> (Table Header): Định nghĩa ô tiêu đề (thường nằm ở hàng đầu tiên, chữ in đậm).
+   - <td> (Table Data): Định nghĩa ô chứa dữ liệu thông thường trong bảng.
